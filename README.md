@@ -1,4 +1,4 @@
-# Pathlight
+ Pathlight
 
 Your university path, without the guesswork.
 
